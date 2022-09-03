@@ -58,8 +58,9 @@ public class Newone : MonoBehaviour
 }
 
 ```
-## Output:
+## Output 1:
 ![output1](1.png)
+## Output 2:
 ![output1](2.png)
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity was developed.
